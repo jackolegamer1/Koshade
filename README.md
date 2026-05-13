@@ -1,6 +1,6 @@
 # Koshade
 
-ReShade but for 2017-2021 Korone clients with support for custom shaders and presets.
+ReShade but for 2017-2021 Korone clients with support for custom shaders and presets Also visit our [site](https://menwey.github.io/KoShadersSITE/).
 
 ## ⚠️ Disclaimer
 
