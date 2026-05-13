@@ -1,6 +1,6 @@
 # Koshade
 
-ReShade installer for 2017-2021 Korone clients with support for custom shaders and presets.
+ReShade but for 2017-2021 Korone clients with support for custom shaders and presets.
 
 ## ⚠️ Disclaimer
 
