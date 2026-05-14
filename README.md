@@ -1,4 +1,4 @@
-# Koshade
+# Koshade is disabled, we working on fix
 
 ReShade but for 2017-2021 Korone clients with support for custom shaders and presets Also visit our [site](https://menwey.github.io/KoShadersSITE/).
 
